@@ -32,8 +32,8 @@
 
 ## Команда проекта
 
-**Разработчик: Сиволодский Андрей Павлович**  
-Full Stack Developer, студент **ОГУ**, группа **23ПМИ(б)ППКС**.  
+**Главный и единственный разработчик: Сиволодский Андрей Павлович**  
+ML-engeneer,ML-Ops,Backend,Frontend,Tester - студент **ОГУ**, группа **23ПМИ(б)ППКС**.  
 ***До связи***
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/160px-Gmail_icon_%282020%29.svg.png" width="30"> [boooler56@gmail.com](mailto:booler56@gmail.com) 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/225px-Telegram_2019_Logo.svg.png" width="30"> [tracknthrow](https://t.me/tracknthrow)
