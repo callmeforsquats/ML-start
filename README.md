@@ -2,8 +2,7 @@
 <p align="center"><img src="https://media.proglib.io/wp-uploads/2018/03/network.jpg" width="500"></p>
 
 
-![Статус разработки](https://img.shields.io/badge/Статус%20разработки-Разработка%20ТЗ%20и%20исследование%20предметной%20области-red)
-![Покрытие тестами](https://img.shields.io/badge/Покрытие%20тестами-0%25-red)
+![Статус разработки](https://img.shields.io/badge/Статус%20разработки-Finished-green)
 
 ## Содержание
 - [Что Зачем и Почему](#почему)
@@ -45,7 +44,6 @@ ML-engeneer,ML-Ops,Backend,Frontend,Tester - студент **ОГУ**, груп
 ### [FastAPI](https://fastapi.tiangolo.com/)   <img src="https://fastapi.tiangolo.com/img/favicon.png" width="30">
 ### [Numpy](https://numpy.org)   <img src="https://numpy.org/images/logo.svg" width="30">
 ### [Java Script](https://learn.javascript.ru)   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/120px-Unofficial_JavaScript_logo_2.svg.png" width="30">
-### [Vue](https://vuejs.org)   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/139px-Vue.js_Logo_2.svg.png" width="30">
 ### [Vite](https://vite.dev)   <img src="https://vite.dev/logo.svg" width="30">
 ### [Tailwind](https://tailwindcss.com/) <img src="https://codekitapp.com/images/help/free-tailwind-icon@2x.png" width="30">
 
@@ -83,11 +81,11 @@ ML-engeneer,ML-Ops,Backend,Frontend,Tester - студент **ОГУ**, груп
 
 ## To do
 - [x] Добавить README
-- [ ] Составить ТЗ
-- [ ] Продумать Архитектуру Приложения
-- [ ] Приступить к разработке
-- [ ] Провести полное тестирование проекта
-- [ ] развернуть проект на сервере
+- [x] Составить ТЗ
+- [x] Продумать Архитектуру Приложения
+- [x] Приступить к разработке
+- [x] Провести полное тестирование проекта
+- [x] развернуть проект на сервере
 
 
 
