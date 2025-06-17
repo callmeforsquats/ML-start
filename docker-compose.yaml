@@ -1,0 +1,11 @@
+services:
+  back:
+    build: ./back
+    ports:
+      - 5555:5555
+  front:
+    build: ./front
+    depends_on:
+      - back
+    ports:
+      - 7777:7777

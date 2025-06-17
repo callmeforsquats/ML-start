@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+@custom-variant active (&:where(.active));
+@custom-variant active-dark (&:where(.dark * .active));
+input#file-upload-button {
+  background-color: rgb(65, 57, 57);
+}
+@font-face {
+  font-family: "Swanston";
+  src: url("/fonts/swanston/Swanston.ttf");
+}
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+@theme {
+  --font-swanston: "Swanston";
+  --animate-image-appear: image-appear 5s;
+  @keyframes image-appear {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+}
